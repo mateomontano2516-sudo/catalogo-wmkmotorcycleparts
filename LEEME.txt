@@ -1,0 +1,10 @@
+WMK MOTORCYCLEPARTS - CATÁLOGO INICIAL
+
+Esta es una primera maqueta navegable con 25 productos que pasaron la validación inicial de código y precio entre los lotes 1, 2 y 3.
+
+Incluye búsqueda, filtros por las categorías acordadas y orden alfabético automático.
+Las fotografías están marcadas como pendientes: no se han asignado imágenes de producto porque deben extraerse y verificarse desde el PDF para evitar fotos incorrectas.
+Los productos con códigos/precios dudosos no se muestran todavía. Permanecen en los archivos de revisión para resolverlos antes de publicar.
+
+Para probar: abrir index.html en un navegador.
+Para publicar en GitHub Pages: subir el contenido completo de esta carpeta a un repositorio.
